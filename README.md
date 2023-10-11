@@ -88,7 +88,11 @@ gardener.harvest()
 gardener.work()
 # собираем помидоры, так как теперь они выросли
 gardener.harvest()
+
+
 Результат.
+![Tema9_1](https://github.com/DarknessWillCame/TEMA-9/assets/46960566/0fd56935-d663-4e19-b588-035417ae91c5)
+
 Результат задания 1
 
 Общие выводы по теме
